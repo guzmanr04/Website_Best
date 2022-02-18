@@ -1,0 +1,20 @@
+# Copyright Notice
+copyright: © 2020 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio and personal blog of Ramon Guzman.
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+newsletter:
+  enable: false
+
+#RAW HTML in markdown files
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
